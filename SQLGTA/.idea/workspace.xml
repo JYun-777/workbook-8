@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54c3e122-721a-447f-886e-569a65f97b40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DemoExternalLibrary/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExternalLibrary/src/main/resources/FLF/gothic.flf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExternalLibrary/src/main/resources/FLF/pebbles.flf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExternalLibrary/src/main/resources/FLF/roman.flf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExternalLibrary/src/main/resources/FLF/slant.flf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GTAData/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GTAData/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GTAData/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GTAData/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GTAData/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2yHsMnbAWxpxO0zcv79Ox5FEy3P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/LTCA/workbook-8/SQLGTA/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54c3e122-721a-447f-886e-569a65f97b40" name="Changes" comment="" />
+      <created>1749502790636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749502790636</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,52 @@
+//package com.pluralsight;
+//
+//import org.apache.logging.log4j.LogManager;
+//import org.apache.logging.log4j.Logger;
+//
+//
+//
+//
+//public class App {
+//
+//    final static Logger logger = (Logger) LogManager.getLogger(App.class);
+//
+//    public static void main(String[] args) {
+//
+//        logger.info("This is an INFO log");
+//        logger.warn("This is a warning");
+//
+//    }
+//}
+
+
+
+import com.github.lalyos.jfiglet.FigletFont;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+import org.apache.logging.log4j.Level;
+
+import java.io.IOException;
+
+public class App {
+
+    final static Logger logger = LogManager.getLogger(App.class);
+
+    public static void main(String[] args) throws IOException {
+        String asciiArt = FigletFont.convertOneLine("src/main/resources/FLF/roman.flf"," YEFEATED");
+        System.out.println(asciiArt);
+        logMeLikeYouDo("☕");
+    }
+
+    private static void logMeLikeYouDo(String input) {
+        if (logger.isDebugEnabled()) {
+            logger.debug("This is debug : " + input);
+        }
+        if (logger.isInfoEnabled()) {
+            logger.info("This is info : " + input);
+        }
+        logger.warn("This is warn : " + input);
+        logger.error("This is error : " + input);
+        logger.fatal("This is fatal : " + input);
+    }
+}
